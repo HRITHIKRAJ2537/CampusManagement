@@ -12,7 +12,7 @@
     <!-- Changed from jar → war -->
     <packaging>war</packaging>
 
-    <name>CampusMgmtSystem</name>
+    <name>CampusMgmtSystem </name>
     <url>http://localhost</url>
 
     <properties>
