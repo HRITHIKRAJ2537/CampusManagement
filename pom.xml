@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>as</groupId>
-    <artifactId>CampusMgmtSystem</artifactId>
+    <artifactId>CampusMgmtSystem </artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- Changed from jar → war -->
